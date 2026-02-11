@@ -2,7 +2,7 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0">
   <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
   <info>
-    <title>gost-r-7-0-100-2018-numeric-alphabetical</title>
+    <title>harvard-cadaver-v0.1</title>
     <id>https://bibliostyle.ru/stil-gost-7-0-100-2018-dlya-mendeley-i-zotero-style-russian-gost-r-7-0-100-2018-csl/</id>
     <link href="https://bibliostyle.ru/stil-gost-7-0-100-2018-dlya-mendeley-i-zotero-style-russian-gost-r-7-0-100-2018-csl/" rel="self"/>
     <link href="http://protect.gost.ru/document.aspx?control=7&amp;id=173511" rel="documentation"/>
@@ -504,7 +504,7 @@
           <group delimiter=" // ">
             <group delimiter=" / ">
               <group delimiter=" : ">
-                <text macro="author-title"/>
+                <text macro="second-position-creators"/>
                 <text variable="section"/>
               </group>
               <text macro="second-position-authors-only"/>
@@ -529,7 +529,7 @@
         <group delimiter=". – " prefix="">
           <group delimiter=" // ">
             <group delimiter=" : ">
-              <text macro="author-title"/>
+              <text macro="second-position-creators"/>
               <text variable="genre"/>
             </group>
             <group delimiter=" ">
