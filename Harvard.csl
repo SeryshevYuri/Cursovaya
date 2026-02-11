@@ -378,7 +378,7 @@
           <group delimiter=" / ">
             <group delimiter=". ">
               <group delimiter=" : ">
-                <text macro="author-title"/>
+                <text macro="second-position-creators"/>
                 <text variable="collection-title"/>
                 <text macro="number-of-volumes"/>
               </group>
@@ -433,7 +433,7 @@
         <group delimiter=". – ">
           <group delimiter=" // ">
             <group delimiter=" / ">
-              <text macro="author-title"/>
+              <text macro="second-position-creators"/>
               <group delimiter=". – ">
                 <text macro="second-position-authors-only"/>
                 <text macro="online"/>
@@ -474,7 +474,7 @@
           <group delimiter=" // ">
             <group delimiter=" / ">
               <group delimiter=" : ">
-                <text macro="author-title"/>
+                <text macro="second-position-creators"/>
                 <text variable="collection-title"/>
               </group>
               <group delimiter=". – ">
@@ -553,7 +553,7 @@
           <group delimiter=" / ">
             <group delimiter=". ">
               <group delimiter=" : ">
-                <text macro="author-title"/>
+                <text macro="second-position-creators"/>
                 <text variable="collection-title"/>
                 <text macro="number-of-volumes"/>
               </group>
